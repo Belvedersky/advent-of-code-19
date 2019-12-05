@@ -1,0 +1,23 @@
+{
+  "name": "aoc-2019",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "author": "Andrey Belvedersky",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^6.7.2",
+    "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "inquirer": "^7.0.0",
+    "lodash": "^4.17.15",
+    "marked": "^0.7.0",
+    "marked-terminal": "^3.3.0"
+  }
+}
